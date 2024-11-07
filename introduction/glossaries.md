@@ -37,6 +37,12 @@ So we need to create a Headless CMS so that those two websites can pull articles
 
 A link from one application to another application easily. & fast.
 
+## 0
+
+### On-Prem
+
+Definition: Instead of cloud storage, this is a physical computer configured as a server in our office.
+
 ## P
 
 ### Page Load Time
@@ -44,3 +50,13 @@ A link from one application to another application easily. & fast.
 Definition: Time taken for a web page to fully load.
 Measurement: Average load time in seconds.
 Target: Less than 3 seconds.
+
+## S
+
+### SFTP
+
+Definition: Stands for Secure File Transfer Protocol, is a secure way to transfer files over a network. It's an extension of the SSH (Secure Shell) protocol and provides a secure method for uploading, downloading, and managing files.
+
+### S3-Storage
+
+Definition: S3 (Simple Storage Service) is a cloud-based object storage service provided by Amazon Web Services (AWS). It's designed to store and manage large amounts of data with high durability, availability, and scalability

@@ -26,6 +26,7 @@ export default defineConfig({
         items: [
           { text: 'Data Protection', link: '/back-ups-&-storage/data-protection' },
           { text: 'Back Ups', link: '/back-ups-&-storage/back-ups' },
+          { text: 'Schedules', link: '/back-ups-&-storage/schedules' },
         ],
       }
       
