@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Technical Documents",
-  description: "SLA Agreement",
+  description: "SLA",
   ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -28,8 +28,28 @@ export default defineConfig({
           { text: 'Back Ups', link: '/back-ups-&-storage/back-ups' },
           { text: 'Schedules', link: '/back-ups-&-storage/schedules' },
         ],
+      },
+
+      {
+        text: 'Service Packages',
+        items: [
+          { text: 'Starter Websites', link: '/service-packages/starter-websites' },
+          { text: 'Back Ups', link: '/service-packages/back-ups' },
+          { text: 'Schedules', link: '/service-packages/schedules' },
+        ],
+      },
+
+      {
+        text: 'Add Ons',
+        items: [
+          { text: 'SKU Count', link: '/add-ons/sku-count' },
+          { text: 'Back Ups', link: '/add-ons/back-ups' },
+          { text: 'Schedules', link: '/add-ons/schedules' },
+        ],
       }
       
+      
+
     ],
 
     socialLinks: [

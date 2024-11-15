@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Technical Documents"
-  text: "SLA Agreement"
-  tagline: My great project tagline
+  name: "Berlime.Dev"
+  text: "In-depth Services Details"
+  tagline: Technical details regarding the packages and maintenance you subscribed to.
   actions:
     - theme: brand
       text: Markdown Examples
