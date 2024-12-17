@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Technical Documents",
+  title: "Technical TnCs",
   description: "SLA",
   ignoreDeadLinks: true,
   themeConfig: {

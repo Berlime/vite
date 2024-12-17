@@ -18,7 +18,7 @@ Price: S$1500
 
 
 | No. of Pages        | Max. Sections      |  Each Section Height |
-| ------------------- | :-----------	   | :----                |
+| ------------------- | :-----------    | :----                |
 | One (Single Scroll) | 8                  | 450px - 850px        |
 | Three               | 4 to 6 per page    | 450px - 850px        |
 
