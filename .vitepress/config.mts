@@ -31,11 +31,10 @@ export default defineConfig({
       },
 
       {
-        text: 'Service Packages',
+        text: 'Website Packages',
         items: [
-          { text: 'Starter Websites', link: '/service-packages/starter-websites' },
-          { text: 'Back Ups', link: '/service-packages/back-ups' },
-          { text: 'Schedules', link: '/service-packages/schedules' },
+          { text: 'Packages', link: '/website-packages/packages' },
+          { text: 'Starter Websites', link: '/website-packages/starter-websites' },
         ],
       },
 

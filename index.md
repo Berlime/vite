@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "Berlime.Dev"
-  text: "In-depth Services Details"
-  tagline: Technical details regarding the packages and maintenance you subscribed to.
+  name: "Berlime Solutions"
+  text: "Terms & Conditions +"
+  tagline: Dive deepr into the technical terms & conditions regarding the packages & care plan you subscribed.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Find Your Packages
+      link: /website-packages/packages
     - theme: alt
-      text: API Examples
+      text: Find Your Care Plan
       link: /api-examples
 
 features:
