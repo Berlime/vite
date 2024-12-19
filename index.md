@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Berlime Solutions"
   text: "Terms & Conditions +"
-  tagline: Dive deepr into the technical terms & conditions regarding the packages & care plan you subscribed.
+  tagline: Dive deeper into the technical terms & conditions regarding the packages & care plan you subscribed.
   actions:
     - theme: brand
       text: Find Your Packages
@@ -15,11 +15,13 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - icon: ✅
+    title: In-depth
+    details: Technical version of terms & conditions to have more context.
+  - icon: ✅
+    title: Transparency
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - icon: ✅
+    title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-

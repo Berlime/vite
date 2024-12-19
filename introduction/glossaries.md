@@ -3,7 +3,7 @@ title: Glossaries
 outline: docs
 ---
 
-# {{ $frontmatter.title }}
+# Glossaries
 
 ## D
 
