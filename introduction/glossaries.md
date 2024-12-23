@@ -71,6 +71,10 @@ It's an extension of the SSH (Secure Shell) protocol and provides a secure metho
 Definition: S3 (Simple Storage Service) is a cloud-based object storage service provided by Amazon Web Services (AWS).
 It's designed to store and manage large amounts of data with high durability, availability, and scalability
 
+### SME
+
+In Singapore, SMEs stands for Small and Medium-sized Enterprises. These businesses are defined based on their annual turnover and number of employees. Specifically, an SME in Singapore is a company with an annual turnover of less than SGD 100 million and fewer than 200 employees. SMEs is a plural of SME.
+
 ## T
 
 ### TLD

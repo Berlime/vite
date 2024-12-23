@@ -57,7 +57,7 @@ export default defineConfig({
       {
         text: 'Website Packages',
         items: [
-          { text: 'Packages', link: '/website-packages/packages' },
+          { text: 'Introduction', link: '/website-packages/introduction' },
           { text: 'Starter Websites', link: '/website-packages/starter-websites' },
         ],
       },
@@ -66,8 +66,6 @@ export default defineConfig({
         text: 'Add Ons',
         items: [
           { text: 'SKU Count', link: '/add-ons/sku-count' },
-          { text: 'Back Ups', link: '/add-ons/back-ups' },
-          { text: 'Schedules', link: '/add-ons/schedules' },
         ],
       }
       
