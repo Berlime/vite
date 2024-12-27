@@ -11,26 +11,12 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-      options: {
-        miniSearch: {
-          /**
-           * @type {Pick<import('minisearch').Options, 'extractField' | 'tokenize' | 'processTerm'>}
-           */
-          options: {
-            /* ... */
-          },
-          /**
-           * @type {import('minisearch').SearchOptions}
-           * @default
-           * { fuzzy: 0.2, prefix: true, boost: { title: 4, text: 2, titles: 1 } }
-           */
-          searchOptions: {
-            /* ... */
-          },
-        },
+
+    footer: {
+      message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
+      copyright: 'Copyright © <a href="https://github.com/yyx990803">Evan You</a> | <a href="https://berlime.com/">Berlime Solutions Pte. Ltd.</a>'
     },
-    
-    
+        
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Start Here', link: '/introduction/overview' },
@@ -74,7 +60,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Berlime/vite' }
     ]
   }
 })

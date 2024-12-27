@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Berlime Solutions"
-  text: "Terms & Conditions +"
+  text: "Terms & Conditions+"
   tagline: Dive deeper into the technical terms & conditions regarding the packages & care plan you subscribed.
   actions:
     - theme: brand
@@ -15,13 +15,14 @@ hero:
       link: /api-examples
 
 features:
-  - icon: ✅
+  - icon: ⬇️
     title: In-depth
-    details: Technical version of terms & conditions to have more context.
-  - icon: ✅
-    title: Transparency
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - icon: ✅
-    title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Technical version of terms & conditions to add more context.
+    link: /introduction/overview.html#what-is-tech-documentation
+  - icon: 💧
+    title: Get Clarity
+    details: Have better understanding on how certain tasks is executed.
+  - icon: ⚙️
+    title: Up Stream Provider
+    details: Discover the tools we use for your projects that we do not have a control of.
 ---

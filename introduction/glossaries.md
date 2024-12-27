@@ -3,26 +3,33 @@ title: Glossaries
 outline: docs
 ---
 
-# Glossaries
+<p style="font-size: 24px; font-weight: 600">Glossaries</p>
+
+Explore our list of common tech abbreviations and their meanings. This quick reference guide will help you understand the technical jargon with ease.
+
+Note that some may only applicable to only our context.
+Click 'On This Page' to navigate.
+
+Click [here](/back-ups-&-storage/data-protection.html) to skip to the next page.
 
 ## D
 
 ### Data
 
-Data that holds everything in your website and applications. This data is usually refer to the folder name 'root' which containes everything that is needed for your website and application to display online.
+Data that holds everything in your website and applications. This data is usually referred to the folder name 'root' which contains everything that is needed for your website and application to display online.
 
 ## E
 
 ### e-Commerce
 
-Websites or applications that accepts payments automatically is considered an e-Commerce. eCommerce, is a seperate system on top of a website.
-The size is huge (in Gigabytes) collectively, to peform what an e-Commerce store should. The larger an online store is, the more server resources it requires.
+Websites or applications that accept payments automatically is considered an e-Commerce. eCommerce, is a separate system on top of a website.
+The size is huge (in Gigabytes) collectively, to perform what an e-Commerce store should. The larger an online store is, the more server resources it requires.
 
 ## G
 
-### GUI: Graphical User Interface
+### GUI
 
-A **Graphical User Interface (GUI)** is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators, as opposed to text-based interfaces, typed command labels, or text navigation. GUIs are commonly used in operating systems, software applications, and websites to make them more user-friendly and accessible.
+A **Graphical User Interface (GUI)** is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators, as opposed to text-based interfaces, typed command labels, or text navigation. GUIs are commonly used in operating systems, software applications, and websites to make them more user-friendly and accessible.
 
 ## H
 
@@ -84,7 +91,6 @@ For example, in the domain name example.com, the TLD is .com.
 
 **Types of TLDs:**
 **Generic TLDs (gTLDs):**<br> Commonly used and include .com, .net, .org, etc.
-
 
 **Country Code TLDs (ccTLDs):**<br> Specific to countries, such as .sg for Singapore, .uk for the United Kingdom, and .my for Malaysia.
 
