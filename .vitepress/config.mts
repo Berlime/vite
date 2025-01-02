@@ -63,7 +63,7 @@ export default defineConfig({
       {
         text: 'Equipments',
         items: [
-          { text: 'Introduction', link: '/equipments/overview' },
+          { text: 'Overview', link: '/equipments/overview' },
         ],
       },
 
