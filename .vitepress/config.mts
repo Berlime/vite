@@ -25,6 +25,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Introduction',
+        // collapsed: true,
         items: [
           { text: 'Overview', link: '/introduction/overview' },
           { text: 'Glossaries', link: '/introduction/glossaries' },
@@ -33,6 +34,7 @@ export default defineConfig({
 
       {
         text: 'Back Ups & Storage',
+        //  
         items: [
           { text: 'Data Protection', link: '/back-ups-&-storage/data-protection' },
           { text: 'Back Ups', link: '/back-ups-&-storage/back-ups' },
@@ -42,6 +44,7 @@ export default defineConfig({
 
       {
         text: 'Website Packages',
+        // collapsed: true,
         items: [
           { text: 'Introduction', link: '/website-packages/introduction' },
           { text: 'Starter Websites', link: '/website-packages/starter-websites' },
@@ -49,11 +52,28 @@ export default defineConfig({
       },
 
       {
+        text: 'Maintenance',
+        // collapsed: true,
+        items: [
+          { text: 'Introduction', link: '/maintenance/introduction' },
+          { text: 'Server Maintenance', link: '/maintenance/server-maintenance' },
+        ],
+      },
+
+      {
+        text: 'Equipments',
+        items: [
+          { text: 'Introduction', link: '/equipments/overview' },
+        ],
+      },
+
+      {
         text: 'Add Ons',
+        // collapsed: true,
         items: [
           { text: 'SKU Count', link: '/add-ons/sku-count' },
         ],
-      }
+      },
       
       
 

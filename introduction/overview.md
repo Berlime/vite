@@ -1,10 +1,9 @@
---- 
+---
+title: Overview
 outline: docs
 ---
 
-# Overview
-
-## What is Tech. Documentation?
+<p style="font-size: 24px; font-weight: 600">Overview</p>
 
 This documentation provides all the technical details of how we fulfill your maintenance plan & packages. In today’s digital world, transparency is crucial, and we're committed to keeping you in the loop.
 

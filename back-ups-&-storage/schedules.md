@@ -3,10 +3,10 @@ title: Schedules
 outline: docs
 ---
 
-# {{ $frontmatter.title }}
+<p style="font-size: 24px; font-weight: 600">Back Up Schedules</p>
 
-Back-up schedules will be vary on the care plan subscription for your project.
-Generally, we seperate into 3 back ups types.
+Back-up schedules will be varied on the care plan subscription for your project.
+Generally, we separate into 3 back-ups types.
 
 1. Database only - (Only database and not website files)
 2. Website files - (Only website files and not database)
@@ -24,5 +24,3 @@ Generally, we seperate into 3 back ups types.
 [link](url)<br>
 [link](url)<br>
 [link](url)<br>
-
-
