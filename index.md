@@ -17,12 +17,27 @@ hero:
 features:
   - icon: ⬇️
     title: In-depth
-    details: Technical version of terms & conditions to add more context.
+    details: Learn about our products & services tailored to meet your unique business needs.
     link: /introduction/overview.html#what-is-tech-documentation
   - icon: 💧
     title: Get Clarity
-    details: Have better understanding on how certain tasks is executed.
+    details: Understand project execution processes, ensuring efficiency from the ground up.
   - icon: ⚙️
     title: Up Stream Provider
-    details: Discover the tools we use for your projects that we do not have a control of.
----
+    details: Discover the tools & technologies powering your website & application.
+  - icon: 💡
+    title: Easy to Understand
+    details: No jargon. Clear, straightforward information to help you grasp every detail effortlessly.
+  - icon: 💡
+    title: Easy to Understand
+    details: No jargon. Clear, straightforward information to help you grasp every detail effortlessly.
+  - icon: ➕
+    title: Add-Ons
+    details: Discover our structured add-ons to enhance & customize your unique processes.
+  - icon: 📊
+    title: Client Portal
+    details: Understand the information & resources available in our client portal for easy access.
+  - icon: 🛡️
+    title: Data-Protection
+    details: Learn about our measures to safeguard sensitive data & ensure confidentiality. 
+  

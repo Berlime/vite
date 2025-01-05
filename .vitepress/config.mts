@@ -61,9 +61,9 @@ export default defineConfig({
       },
 
       {
-        text: 'Equipments',
+        text: 'Equipment',
         items: [
-          { text: 'Overview', link: '/equipments/overview' },
+          { text: 'Overview', link: '/equipment/overview' },
         ],
       },
 
@@ -72,6 +72,7 @@ export default defineConfig({
         // collapsed: true,
         items: [
           { text: 'SKU Count', link: '/add-ons/sku-count' },
+          { text: 'Softwares', link: '/add-ons/softwares' },
         ],
       },
       

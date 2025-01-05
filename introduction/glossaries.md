@@ -12,11 +12,27 @@ Click 'On This Page' to navigate.
 
 Click [here](/back-ups-&-storage/data-protection.html) to skip to the next page.
 
+## C
+
+### CMS
+
+A Content Management System (CMS) is software used to create, manage, and modify digital contents (such as articles, images, blog posts & pages) on websites without needing specialized technical knowledge. It's essentially a user-friendly platform that allows people to build and maintain websites easily. There are many CMS software, the most popular CMS is WordPress.
+
 ## D
 
 ### Data
 
 Data that holds everything in your website and applications. This data is usually referred to the folder name 'root' which contains everything that is needed for your website and application to display online.
+
+### Docker
+
+Docker is a term commonly referred as Docker image. It is way of configuring website or apps in a separate folder or known as 'containers'.
+
+One of the key benefits of Docker is that it keeps everything isolated. This means your applications won’t interfere with other applications within the same server, which enhances security and prevents conflicts.
+
+Docker also helps you manage application versions, making it easy to track changes and revert to previous versions if necessary.
+
+Lastly, Docker makes scaling your applications a breeze. You can easily manage and deploy multiple containers across different machines, ensuring your applications can grow as needed.
 
 ## E
 
@@ -66,6 +82,10 @@ Definition: Time taken for a web page to fully load.
 Measurement: Average load time in seconds.
 Target: Less than 3 seconds.
 
+### Plug-In
+
+A plug-in, also known as an add-on or extension, is a software component that adds specific features to an existing software program. When a software supports plug-ins, it enables customization by allowing third-party developers to create and add features or functionalities that are not available in the original software.
+
 ## S
 
 ### SFTP
@@ -100,3 +120,21 @@ For example, in the domain name example.com, the TLD is .com.
 **Branding:**<br> The TLD can affect the perceived credibility and memorability of a website.
 
 **SEO:**<br> Search engines may use the TLD as a factor in ranking websites.
+
+## V
+
+### VPS
+
+A VPS, or Virtual Private Server, is a virtualized server that mimics the functionalities of a dedicated physical server within a shared hosting environment. Here's a brief overview:
+
+- **Isolation**: Each VPS runs its own operating system and applications, independent of other VPSs on the same physical server.
+
+- **Resources**: You get dedicated resources like CPU, RAM, and storage, providing better performance & reliability compared to shared hosting.
+
+- **Control**: Root access and administrative control, allowing efficient & optimised software as needed.
+
+- **Scalability**: VPS servers are scalable, meaning you can easily upgrade or downgrade your resources based on your needs.
+
+::: info 💡 Note:
+VPS hosting provides more control, performance, and security compared to shared hosting, making it suitable for growing websites and businesses with higher demands. Shared hosting is a budget-friendly option for smaller websites with less resource-intensive needs.
+:::
