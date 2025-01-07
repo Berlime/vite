@@ -44,10 +44,22 @@ export default defineConfig({
 
       {
         text: 'Website Packages',
-        // collapsed: true,
+        collapsed: true,
         items: [
-          { text: 'Introduction', link: '/website-packages/introduction' },
-          { text: 'Starter Websites', link: '/website-packages/starter-websites' },
+          { text: 'Types of Websites', link: '/website-packages/types-of-websites' },
+          { text: 'Boot', link: '/website-packages/boot' },
+          { text: 'Initiate', link: '/website-packages/initiate.md' },
+          { text: 'Engage', link: '/website-packages/engage.md' },
+          { text: 'Spark', link: '/website-packages/spark.md' },
+          { text: 'Ignite', link: '/website-packages/ignite.md' },
+          { text: 'Launch', link: '/website-packages/launch.md' },
+          { text: 'Astral', link: '/website-packages/astral.md' },
+          { text: 'Cosmic', link: '/website-packages/cosmic.md' },
+          { text: 'Stellar', link: '/website-packages/stellar.md' },
+          { text: 'Voyage', link: '/website-packages/voyage.md' },
+          { text: 'Odyssey', link: '/website-packages/odyssey.md' },
+          { text: 'Oyperdrive', link: '/website-packages/hyperdrive.md' },
+
         ],
       },
 
