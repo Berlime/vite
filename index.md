@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Berlime Solutions"
-  text: "Terms & Conditions+"
+  name: "Berlime Solutions+"
+  text: Welcome 🚀
   tagline: Dive deeper into the technical terms & conditions regarding the packages & care plan you subscribed.
   actions:
     - theme: brand
@@ -28,9 +28,6 @@ features:
   - icon: 💡
     title: Easy to Understand
     details: No jargon. Clear, straightforward information to help you grasp every detail effortlessly.
-  - icon: 💡
-    title: Easy to Understand
-    details: No jargon. Clear, straightforward information to help you grasp every detail effortlessly.
   - icon: ➕
     title: Add-Ons
     details: Discover our structured add-ons to enhance & customize your unique processes.
@@ -40,4 +37,7 @@ features:
   - icon: 🛡️
     title: Data-Protection
     details: Learn about our measures to safeguard sensitive data & ensure confidentiality. 
+  - icon: 💻
+    title: Other Services
+    details: Discover services outside of front-end development.
   

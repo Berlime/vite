@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Technical TnCs",
+  title: "Docs.Berlime",
   description: "SLA",
   ignoreDeadLinks: true,
   lastUpdated: true,
@@ -24,7 +24,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Introduction',
+        text: 'Introduction 🌐',
         // collapsed: true,
         items: [
           { text: 'Overview', link: '/introduction/overview' },
@@ -33,54 +33,45 @@ export default defineConfig({
       },
 
       {
-        text: 'Back Ups & Storage',
-        //  
-        items: [
-          { text: 'Data Protection', link: '/back-ups-&-storage/data-protection' },
-          { text: 'Back Ups', link: '/back-ups-&-storage/back-ups' },
-          { text: 'Schedules', link: '/back-ups-&-storage/schedules' },
-        ],
-      },
-
-      {
-        text: 'Website Packages',
+        text: 'Website Packages 📦',
         collapsed: true,
         items: [
           { text: 'Types of Websites', link: '/website-packages/types-of-websites' },
-          { text: 'Boot', link: '/website-packages/boot' },
-          { text: 'Initiate', link: '/website-packages/initiate.md' },
-          { text: 'Engage', link: '/website-packages/engage.md' },
-          { text: 'Spark', link: '/website-packages/spark.md' },
-          { text: 'Ignite', link: '/website-packages/ignite.md' },
-          { text: 'Launch', link: '/website-packages/launch.md' },
-          { text: 'Astral', link: '/website-packages/astral.md' },
-          { text: 'Cosmic', link: '/website-packages/cosmic.md' },
-          { text: 'Stellar', link: '/website-packages/stellar.md' },
-          { text: 'Voyage', link: '/website-packages/voyage.md' },
-          { text: 'Odyssey', link: '/website-packages/odyssey.md' },
-          { text: 'Oyperdrive', link: '/website-packages/hyperdrive.md' },
+          { text: 'Starter Websites', link: '/website-packages/starter-websites' },
+          // { text: 'Spark', link: '/website-packages/spark.md' },
+          // { text: 'Ignite', link: '/website-packages/ignite.md' },
+          // { text: 'Launch', link: '/website-packages/launch.md' },
+          // { text: 'Astral', link: '/website-packages/astral.md' },
+          // { text: 'Cosmic', link: '/website-packages/cosmic.md' },
+          // { text: 'Stellar', link: '/website-packages/stellar.md' },
+          // { text: 'Voyage', link: '/website-packages/voyage.md' },
+          // { text: 'Odyssey', link: '/website-packages/odyssey.md' },
+          // { text: 'Oyperdrive', link: '/website-packages/hyperdrive.md' },
 
         ],
       },
 
       {
-        text: 'Maintenance',
+        text: 'Maintenance 🔧',
         // collapsed: true,
         items: [
-          { text: 'Introduction', link: '/maintenance/introduction' },
+          { text: 'Care Plan', link: '/maintenance/care-plan' },
           { text: 'Server Maintenance', link: '/maintenance/server-maintenance' },
+          { text: 'Data Protection', link: '/maintenance/data-protection' },
+          { text: 'Back Ups', link: '/maintenance/back-ups' },
+          { text: 'Support', link: '/maintenance/support' },
         ],
       },
 
       {
-        text: 'Equipment',
+        text: 'Equipment 💻',
         items: [
           { text: 'Overview', link: '/equipment/overview' },
         ],
       },
 
       {
-        text: 'Add Ons',
+        text: 'Add Ons ➕',
         // collapsed: true,
         items: [
           { text: 'SKU Count', link: '/add-ons/sku-count' },
