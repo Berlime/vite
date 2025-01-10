@@ -34,7 +34,7 @@ export default defineConfig({
 
       {
         text: 'Website Packages 📦',
-        collapsed: true,
+        // collapsed: true,
         items: [
           { text: 'Types of Websites', link: '/website-packages/types-of-websites' },
           { text: 'Starter Websites', link: '/website-packages/starter-websites' },

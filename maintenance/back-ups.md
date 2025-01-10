@@ -33,17 +33,17 @@ We ensure that we use reputable providers, equipments that meets the standards o
 
 Provides hotlink access that retrieve copies faster directly to and from the application.
 Also stores photo, video files, and other assets. This is accessible for collaboration if needed.
-::: 
+:::
 
 ::: tip pCloud
 
 Secondary hotlink access that does not have much changes and activities. Acts as an extention from OneDrive.
-::: 
+:::
 
 ::: tip Google Drive
 
 Server level intergration to peform back up of databases (not files or assets) and collaboration documents with our clients through Google Sheets, Docs etc.
-::: 
+:::
 
 ::: tip On-Prem
 
