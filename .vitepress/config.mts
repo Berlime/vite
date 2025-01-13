@@ -38,8 +38,8 @@ export default defineConfig({
         items: [
           { text: 'Types of Websites', link: '/website-packages/types-of-websites' },
           { text: 'Starter Websites', link: '/website-packages/starter-websites' },
-          // { text: 'Spark', link: '/website-packages/spark.md' },
-          // { text: 'Ignite', link: '/website-packages/ignite.md' },
+          { text: 'Pro Websites', link: '/website-packages/pro-websites' },
+          { text: 'HFD Websites', link: '/website-packages/hfd-websites' },
           // { text: 'Launch', link: '/website-packages/launch.md' },
           // { text: 'Astral', link: '/website-packages/astral.md' },
           // { text: 'Cosmic', link: '/website-packages/cosmic.md' },
@@ -59,7 +59,7 @@ export default defineConfig({
           { text: 'Server Maintenance', link: '/maintenance/server-maintenance' },
           { text: 'Data Protection', link: '/maintenance/data-protection' },
           { text: 'Back Ups', link: '/maintenance/back-ups' },
-          { text: 'Support', link: '/maintenance/support' },
+          // { text: 'Support', link: '/maintenance/support' },
         ],
       },
 

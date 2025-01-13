@@ -13,7 +13,7 @@ It covers the underlying infrastructure that supports multiple websites and appl
 
 ## Not to be confused with Website Maintenance
 
-<u>Server maintenance</u> and <u>website maintenance</u> are two distinct processes that serve different purposes, they are both crucial for the smooth functioning of your online presence.
+`Server maintenance` and `website maintenance` are two distinct processes that serve different purposes, they are both crucial for the smooth functioning of your online presence.
 
 Website maintenance focuses on the specific website itself. This encompasses updating website content, checking for and fixing broken links, optimizing website performance and many more.
 
@@ -37,35 +37,3 @@ Only affected for [VPS servers](introduction/glossaries.html#vps). It will be re
 :::
 
 During this time, periodic maintenance tasks will be performed, such as applying server updates, security patches, upgrading docker images, etc. to ensure your server is running smoothly. During this time, your server and websites may experience minor interruptions. 
-
-## Performance Optimization
-
-We also focus on performance optimization. This involves cleaning up your database, optimizing images, and minimizing code to ensure fast loading times and a smooth user experience.
-
-## Content Updates
-
-Keeping your content fresh is crucial. We regularly review and update your content, ensuring it’s relevant and engaging for your audience.
-
-## Broken Links Check
-
-We also check for broken links. Broken links can frustrate users and harm your SEO. We identify and fix them to maintain your site’s integrity.
-
-## Analytics Monitoring
-
-Monitoring your site’s analytics is key. We track metrics like traffic, bounce rate, and user behavior to identify areas for improvement and ensure your site meets your goals.
-
-## User Experience Improvements
-
-We continuously work on improving user experience. We conduct usability tests, gather feedback, and make adjustments to enhance navigation and overall user satisfaction.
-
-## Technical Support
-
-Lastly, we offer technical support. Our team is available to resolve any issues, answer your questions, and provide guidance whenever you need it.
-
-## Conclusion
-
-By following these steps, we ensure your website remains secure, efficient, and user-friendly.
-
----
-
-I hope this markdown file meets your needs! Let me know if there's anything else I can assist you with.
