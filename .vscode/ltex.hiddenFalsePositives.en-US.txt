@@ -1,0 +1,1 @@
+{"rule":"SENTENCE_WHITESPACE","sentence":"^\\QTier1 }} - Simple static website to display on the internet.\\E$"}
