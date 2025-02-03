@@ -18,6 +18,14 @@ Click [here](/back-ups-&-storage/data-protection.html) to skip to the next page.
 
 A Content Management System (CMS) is software used to create, manage, and modify digital contents (such as articles, images, blog posts & pages) on websites without needing specialized technical knowledge. It's essentially a user-friendly platform that allows people to build and maintain websites easily. There are many CMS software, the most popular CMS is WordPress.
 
+### Collections
+
+Collections is a set of content details about a particular collection. For example, if your site have a `blog`, then, the `blog` is the collection of your articles. (A collection of your articles.)
+
+Another example, if your site displays completed projects. You may want to have a collection for `Projects`.
+
+Collections enables us to handle content in a much more structured way. It is also capable of handling thousands of items (e.g. articles).
+
 ## D
 
 ### Data
