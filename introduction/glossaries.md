@@ -20,11 +20,11 @@ A Content Management System (CMS) is software used to create, manage, and modify
 
 ### Collections
 
-Collections is a set of content details about a particular collection. For example, if your site have a `blog`, then, the `blog` is the collection of your articles. (A collection of your articles.)
+Collections is a set of content details about a particular item. For example, a `blog` is the collection of your `articles`. (A collection of your articles.)
 
-Another example, if your site displays completed projects. You may want to have a collection for `Projects`.
+Another example, if your site displays completed projects. You may want to have a collection for `Completed Works` that display every single `project` you have fulfilled.
 
-Collections enables us to handle content in a much more structured way. It is also capable of handling thousands of items (e.g. articles).
+Collections enables us to manage, organise & handle thousands of `items` (e.g. articles, projects) content in a much more structured way.
 
 ## D
 
