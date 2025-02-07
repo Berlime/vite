@@ -40,4 +40,3 @@ features:
   - icon: 💻
     title: Other Services
     details: Discover services outside of front-end development.
-  

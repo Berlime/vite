@@ -52,6 +52,14 @@ export default defineConfig({
       },
 
       {
+        text: 'Servers 🛜',
+        // collapsed: true,
+        items: [
+          { text: 'Providers', link: '/servers/server-providers' },
+        ],
+      },
+
+      {
         text: 'Maintenance 🔧',
         // collapsed: true,
         items: [
