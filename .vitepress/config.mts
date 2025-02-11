@@ -40,7 +40,7 @@ export default defineConfig({
           { text: 'Starter Websites', link: '/website-packages/starter-websites' },
           { text: 'Pro Websites', link: '/website-packages/pro-websites' },
           { text: 'HFD Websites', link: '/website-packages/hfd-websites' },
-          // { text: 'Launch', link: '/website-packages/launch.md' },
+          { text: 'Onine Shop Websites', link: '/website-packages/online-shop-websites' },
           // { text: 'Astral', link: '/website-packages/astral.md' },
           // { text: 'Cosmic', link: '/website-packages/cosmic.md' },
           // { text: 'Stellar', link: '/website-packages/stellar.md' },
