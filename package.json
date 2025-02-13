@@ -3,5 +3,8 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "markdown-it-anchor": "^9.2.0"
   }
 }

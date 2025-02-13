@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig, DefaultTheme } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -10,6 +10,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     search: {
       provider: 'local'
+    },
+
+    outline: {
+      level: [1, 3]
     },
 
     footer: {
@@ -84,6 +88,7 @@ export default defineConfig({
         items: [
           { text: 'SKU Count', link: '/add-ons/sku-count' },
           { text: 'Softwares', link: '/add-ons/softwares' },
+          { text: 'Marketing', link: '/add-ons/marketing' },
         ],
       },
       
