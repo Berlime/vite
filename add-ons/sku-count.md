@@ -16,21 +16,34 @@ Let's determine the extra commitment required if your store have a lot of produc
 
 ## Extra Costs
 
-The extra commitment to consider as you increase the product/variation count. Out of the box, every e-commerce website package will have 100 SKUs included. After 100 SKUs, see below:
+The extra commitment to consider as you increase the product/variation count. Out of the box, every [e-commerce website package](/website-packages/online-shop-websites.html) will have 100 SKUs included. After 100 SKUs, see below:
+
+Here are what we consider an SKU.
+
+- A product.
+- A variation of a product.
+- A grouped product. (Regardless of how many child product)
+- Custom field with pricing. Determined by `product fields add-on` plug-in.
+- Custom condition. Each condition created is counted as one SKU.
 
 | SKU(s) Count        |Extra Costs      |
 | ------------------- | :-------------: | 
-| 100                 | S$0/m           |                                
+| 100*                 | S$0/m           |                                
 | 200                 | S$150/m         | 
 | 300                 | S$300/m         | 
 | 400                 | S$450/m         | 
-| ... and so on       | + S$150 per 100 SKUs        | 
+| ... and so on       | + S$150 per 100 SKUs        |
+
+<ul style="color: rgba(255, 255, 255, 0.6); font-size: 14px; line-height: 1rem; list-style-type: none">
+    <li><i>*If you want to add e-commerce funtionality but do not took up e-commerce website package. Your first 100 SKUs is S$150/m. Note that this is just a basic built-in e-commerce features without any extra features.</i></li>
+
+</ul>
+
+::: info Example
 
 The table above shows that one SKU costs S$1.50 per month. Billed every 100 SKUs. So, every 100 SKUs, will add S$150. 
 
-::: warning Example
-
-If your online store have 101 SKUs, the extra cost monthly is S$150 as the SKU exceeds the 100 SKU count.
+Assuming you took an e-commerce website pacakge and have 200 SKUs, the extra cost monthly is S$150 as the SKU exceeds the 100 SKU count.
 
 Then, the next few months you want to add a few more products and variations.
 
@@ -41,15 +54,9 @@ After adding new products and variations, the total SKUs is 199. The extra cost 
 ## Sales Volume
 
 Some online store may have only 1 product and a few variations which probably takes up between 5 to 10 SKUs.
-Previously, we have discussed if an online store have multiple products.
+Previously, we have discussed if an online store have multiple products:
 
-In this metrics, we do not take up the percentage of the total sales. Instead, we count by per order.
-
-::: info Note:
-
-If a person purchase 100 products in one checkout. It is still counted as one order.
-
-:::
+In this metrics, on top of the extra SKU count cost incured (if applicable), here are the extra cost to consider based on per order.
 
 | Order Count              |Extra Costs      |
 | -------------------      | :-------------: | 
@@ -60,8 +67,8 @@ If a person purchase 100 products in one checkout. It is still counted as one or
 | ... and so on            | + S$50 per 100 orders per week        | 
 
 
-::: danger Important
+::: info Note:
 
-We will only charge whichever is higher. If the Sales Volume is higher, we will ommit the SKU count charges.
+If a person purchase 100 products in one checkout. It is still counted as one order.
 
 :::

@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Berlime Solutions+"
-  text: Welcome 🚀
+  name: "Wiki Starbase."
+  text: Welcome to Berlime's Wiki Hub.
   tagline: Dive deeper into the technical terms & conditions regarding the packages & care plan you subscribed.
   actions:
     - theme: brand

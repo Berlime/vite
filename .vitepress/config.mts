@@ -45,7 +45,7 @@ export default defineConfig({
           { text: 'Pro Websites', link: '/website-packages/pro-websites' },
           { text: 'HFD Websites', link: '/website-packages/hfd-websites' },
           { text: 'Onine Shop Websites', link: '/website-packages/online-shop-websites' },
-          // { text: 'Astral', link: '/website-packages/astral.md' },
+          { text: 'Custom Websites', link: '/website-packages/custom-websites.md' },
           // { text: 'Cosmic', link: '/website-packages/cosmic.md' },
           // { text: 'Stellar', link: '/website-packages/stellar.md' },
           // { text: 'Voyage', link: '/website-packages/voyage.md' },
@@ -54,7 +54,17 @@ export default defineConfig({
 
         ],
       },
-
+      {
+        text: 'Maintenance 🔧',
+        // collapsed: true,
+        items: [
+          { text: 'Care Plan', link: '/maintenance/care-plan' },
+          { text: 'Server Maintenance', link: '/maintenance/server-maintenance' },
+          { text: 'Data Protection', link: '/maintenance/data-protection' },
+          { text: 'Back Ups', link: '/maintenance/back-ups' },
+          // { text: 'Support', link: '/maintenance/support' },
+        ],
+      },
       {
         text: 'Servers 🛜',
         // collapsed: true,
