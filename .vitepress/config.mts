@@ -2,7 +2,7 @@ import { defineConfig, DefaultTheme } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Docs.Berlime",
+  title: "Wiki - Berlime",
   description: "SLA",
   ignoreDeadLinks: true,
   lastUpdated: true,
