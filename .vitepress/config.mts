@@ -72,19 +72,6 @@ export default defineConfig({
           { text: 'Providers', link: '/servers/server-providers' },
         ],
       },
-
-      {
-        text: 'Maintenance 🔧',
-        collapsed: true,
-        items: [
-          { text: 'Care Plan', link: '/maintenance/care-plan' },
-          { text: 'Server Maintenance', link: '/maintenance/server-maintenance' },
-          { text: 'Data Protection', link: '/maintenance/data-protection' },
-          { text: 'Back Ups', link: '/maintenance/back-ups' },
-          // { text: 'Support', link: '/maintenance/support' },
-        ],
-      },
-
       {
         text: 'Equipment 💻',
         items: [
