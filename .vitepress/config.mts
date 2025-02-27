@@ -29,7 +29,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Introduction 🌐',
-        // collapsed: true,
+        collapsed: true,
         items: [
           { text: 'Overview', link: '/introduction/overview' },
           { text: 'Glossaries', link: '/introduction/glossaries' },
@@ -38,7 +38,7 @@ export default defineConfig({
 
       {
         text: 'Website Packages 📦',
-        // collapsed: true,
+        collapsed: true,
         items: [
           { text: 'Types of Websites', link: '/website-packages/types-of-websites' },
           { text: 'Starter Websites', link: '/website-packages/starter-websites' },
@@ -56,7 +56,7 @@ export default defineConfig({
       },
       {
         text: 'Maintenance 🔧',
-        // collapsed: true,
+        collapsed: true,
         items: [
           { text: 'Care Plan', link: '/maintenance/care-plan' },
           { text: 'Server Maintenance', link: '/maintenance/server-maintenance' },
@@ -67,7 +67,7 @@ export default defineConfig({
       },
       {
         text: 'Servers 🛜',
-        // collapsed: true,
+        collapsed: true,
         items: [
           { text: 'Providers', link: '/servers/server-providers' },
         ],
@@ -75,7 +75,7 @@ export default defineConfig({
 
       {
         text: 'Maintenance 🔧',
-        // collapsed: true,
+        collapsed: true,
         items: [
           { text: 'Care Plan', link: '/maintenance/care-plan' },
           { text: 'Server Maintenance', link: '/maintenance/server-maintenance' },

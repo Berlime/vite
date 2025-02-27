@@ -10,7 +10,7 @@ Explore our list of common tech abbreviations and their meanings. This quick ref
 Note that some may only applicable to only our context.
 Click 'On This Page' to navigate.
 
-Click [here](/back-ups-&-storage/data-protection.html) to skip to the next page.
+Click [here](/website-packages/types-of-websites.html) to skip to the next page.
 
 ## C
 
