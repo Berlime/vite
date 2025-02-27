@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Wiki Starbase."
-  text: Welcome to Berlime's Wiki Hub.
-  tagline: Dive deeper into the technical terms & conditions regarding the packages & care plan you subscribed.
+  name: "Starbase."
+  text: Berlime's Wiki Hub.
+  tagline: Dive deeper into the services you subscribed.
   actions:
     - theme: brand
       text: Find Your Packages
