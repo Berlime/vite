@@ -28,7 +28,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Introduction 🌐',
+        text: 'Introduction',
         collapsed: true,
         items: [
           { text: 'Overview', link: '/introduction/overview' },
@@ -37,7 +37,7 @@ export default defineConfig({
       },
 
       {
-        text: 'Website Packages 📦',
+        text: 'Website Packages',
         collapsed: true,
         items: [
           { text: 'Types of Websites', link: '/website-packages/types-of-websites' },
@@ -55,7 +55,7 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Maintenance 🔧',
+        text: 'Maintenance',
         collapsed: true,
         items: [
           { text: 'Care Plan', link: '/maintenance/care-plan' },
@@ -66,26 +66,36 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Servers 🛜',
+        text: 'Servers',
         collapsed: true,
         items: [
           { text: 'Providers', link: '/servers/server-providers' },
         ],
       },
       {
-        text: 'Equipment 💻',
-        items: [
-          { text: 'Overview', link: '/equipment/overview' },
-        ],
-      },
-
-      {
-        text: 'Add Ons ➕',
-        // collapsed: true,
+        text: 'Add Ons',
+        collapsed: true,
         items: [
           { text: 'SKU Count', link: '/add-ons/sku-count' },
           { text: 'Softwares', link: '/add-ons/softwares' },
           { text: 'Marketing', link: '/add-ons/marketing' },
+        ],
+      },
+      {
+        text: 'Other Services',
+        collapsed: true,
+        items: [
+          { text: 'Intranets', link: '/other-services/sku-count' },
+          { text: 'Automations', link: '/other-services/softwares' },
+          { text: 'Interactive', link: '/other-services/marketing' },
+          { text: 'E-mail Marketing', link: '/other-services/marketing' },
+          { text: 'WhatsApp Marketing', link: '/other-services/marketing' },
+          { text: 'Search Engine Marketing', link: '/other-services/marketing' },
+          { text: 'SOHO Networking', link: '/other-services/marketing' },
+          { text: 'File Servers', link: '/other-services/marketing' },
+          { text: 'Custom Devices', link: '/other-services/custom-devices' },
+          { text: 'Software Procurement', link: '/other-services/marketing' },
+          { text: 'Computer Hardwares', link: '/other-services/marketing' },
         ],
       },
       
