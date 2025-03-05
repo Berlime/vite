@@ -76,6 +76,14 @@ So we need to create a Headless CMS so that those two websites can pull articles
 
 A link from one application to another application easily. & fast.
 
+## M
+
+### Mission-Critical
+
+A mission-critical website is a website that is essential to the functioning of a business or organization. If this website goes down or has issues, it can cause **significant** problems, such as loss of revenue, customer dissatisfaction, or operational disruptions.
+
+Examples include e-commerce sites, web-applications, healthcare portals & organizations that heavily rely on the application.
+
 ## 0
 
 ### On-Prem
