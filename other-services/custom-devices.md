@@ -3,29 +3,30 @@ title: Custom Devices
 outline: docs
 ---
 
-<p style="font-size: 24px; font-weight: 600">Overview</p>
+# Custom Devices
 
-Complex solutions may require custom hardware to perform tasks or automations. This requires us to develop custom computer device to fulfill the needs. Analyzing required specification based on use case and potential upscaling if needed.
+::: info Overview
+We design and build [custom hardware](/introduction/glossaries.html#custom-hardware) solutions tailored to your specific business requirements. Our specialized equipment is designed to solve complex technical challenges that off-the-shelf products cannot address.
+:::
 
-We design and build custom hardware solutions tailored to your specific business requirements.
+## Our Process
 
-Rather than simply procuring off-the-shelf devices, our team develops specialized equipment configurations using industrial-grade components to create purpose-built systems.
+Complex business solutions may require custom devices to perform specialized tasks or [automations](/introduction/glossaries.html#automation). We develop custom computing hardware by:
 
-From initial analysis through assembly and testing, we ensure the final hardware precisely matches your technical needs while maintaining reliability and performance standards.
+1. Analyzing your specific requirements and use cases
+2. Evaluating potential scaling needs
+3. Selecting appropriate [industrial-grade components](/introduction/glossaries.html#industrial-grade-components)
+4. Building and testing the complete solution
 
+Rather than simply procuring off-the-shelf devices, our team develops specialized equipment configurations that create purpose-built systems designed for reliability and performance.
 
+## Pricing
 
+::: warning Equipment Pricing Structure
+Our pricing is based on a sliding scale where the percentage fee decreases as the equipment cost increases, providing better value for larger projects.
+:::
 
-## Service Charges
-
-We outlined a structure of charges based on the price range of equipment cost, labor, resources & etc.
-
-- **Price Range:** Different ranges of equipment costs prices, from S$500 to above S$100,000.
-- **Charges:** Percentage charged based on the price range. The percentage decreases as the price range increases.
-- **Minimum Value:** The minimum amount of service charge or maintenance fee in Singapore dollars (S$) for each price range.
-- **Total:** The combined total cost including the equipment cost price plus the service charge.
-
-For example, if the total cost priced between S$500 and S$10,000, the charge is 30%, resulting in a minimum value of S$150 to S$3,000. The total cost would be between S$650 and S$13,000.
+We've structured our charges based on equipment costs, labor, and resource requirements:
 
 | Price Range (S$)     | Charge Fees | Value (S$)        | Total Cost (S$)      |
 | ------------------- | ----------- | ---------------- | ------------------- |
@@ -42,13 +43,16 @@ For example, if the total cost priced between S$500 and S$10,000, the charge is 
 | Above 100,000       | 5%          | 5,000 and above  | Price Range + 5%     |
 
 <ul style="color: inherit; font-size: 14px; line-height: 1rem; list-style-type: none">
-
   <li><i>For price under S$500, there will be a minimum fee of S$150.</i></li>
 </ul>
 
+### Software Fees
 
-### Programing Charges
-| Software Cost (S$) | Programming Charge* (S$) | Monthly Maintenance¹ (S$) | Total Upgront (S$) |
+::: tip Software Development
+Our [programming charges](/introduction/glossaries.html#programming-charge) cover custom software development, configuration, and testing for your hardware solution.
+:::
+
+| Software Cost (S$) | Programming Charge* (S$) | Monthly [Maintenance Fee](/introduction/glossaries.html#maintenance-fee)¹ (S$) | Total Upgront (S$) |
 | ----------------- | ---------------------- | ------------------- | ---------- |
 | 1,000             | 300                    | 200                 | 1,500      |
 | 2,000             | 600                    | 400                 | 3,000      |
@@ -62,38 +66,51 @@ For example, if the total cost priced between S$500 and S$10,000, the charge is 
 | 10,000            | 3,000                  | 2,000               | 15,000     |
 
 <ul style="color: inherit; font-size: 14px; line-height: 1rem; list-style-type: none">
-
   <li><i>*Programming charges are calculated at 30% of software cost.</i></li>
-  <li><i>¹Fee is calculated at 20% of software cost. Site visit fees are waived for maintenance purposes.</i></li>
-  <li><i>³Custom websites usually demands complex intergrations & requirements.</i></li>
+  <li><i>¹Fee is calculated at 20% of software cost. [Site visit](/introduction/glossaries.html#site-visit) fees are waived for maintenance purposes.</i></li>
+  <li><i>Custom solutions usually demand complex integrations & requirements.</i></li>
 </ul>
 
-## Site Visit Charges
+## Site Visits
 
-At Berlime Solutions, we value the convenience and efficiency of our clients. Therefore, we have established a policy for site visit charges to ensure transparency and fairness.
+At Berlime Solutions, we provide on-site technical support through professional [site visits](/introduction/glossaries.html#site-visit) when remote assistance isn't sufficient.
 
-**Site Visit Charge:**
+::: info Visit Policy
+A standard visit charge of `S$75` applies only for client-requested visits. **No charge** applies for proactive visits initiated by our team.
+:::
 
-- A charge of S$75 per visit is applicable only when a client requests our team to meet them at their site.
-- If our team decides to conduct a site visit proactively, the client will not be charged.
+### When Charges Apply
 
-**Pre-Sale Consultations:**
+Site visit fees are applicable in these scenarios:
 
-- Please note that consultations during the pre-sale phase are not counted towards this charge.
-- The  fee is solely for unnecessary site visits that can be easily resolved through online communications.
+- For clients who have passed the initial **6-month setup period**
+- Visits specifically for troubleshooting services you've subscribed to
+- When the issue could have been resolved through `remote support`
+- For hardware issues with custom devices outside warranty periods
 
-**When do you get charged:**
+### No-Charge Visits
 
-- These charges are applicable only to clients who have been with us for at least 6 months. This allows us to give room for initial errors and avoid charging for site visits within the first six months.
-- Charges will be applied only for site visits related to the services a client has enquired about or subscribed to.
-- If the visit pertains to issues outside the scope of the current services or subscriptions, no charge will be applied.
+We **don't charge** for:
 
-**Duration:**
+- Pre-sale consultations and demonstrations
+- Initial setup and configuration visits
+- Troubleshooting issues outside your current service scope
+- Visits included in your maintenance agreement
 
-- Each site visit will last about 1 hour.
-- Additional hours is billed at S$35/hour.
+### Rates & Duration
 
-**Maintenance:**
+- Standard visit: 1 hour @ S$75
+- Additional time: S$35/hour
+- Travel fee: None within Singapore
 
-- If the services subscribed includes site visit maintenance, there will be no site visit charges.
-- Additional hours is billed at S$35/hour.
+::: tip Pro Tip
+Schedule maintenance visits during off-peak hours to minimize disruption to your business operations.
+:::
+
+### Maintenance Clients
+
+If your service package includes our maintenance plan:
+
+- **Zero** site visit charges for scheduled maintenance
+- Discounted rate of `S$25/hour` for additional support time
+- Priority scheduling for urgent service requests

@@ -46,6 +46,7 @@ export default defineConfig({
           { text: 'HFD Websites', link: '/website-packages/hfd-websites' },
           { text: 'Onine Shop Websites', link: '/website-packages/online-shop-websites' },
           { text: 'Custom Websites', link: '/website-packages/custom-websites.md' },
+          { text: 'Maintenance', link: '/website-packages/maintenance.md' },
           // { text: 'Cosmic', link: '/website-packages/cosmic.md' },
           // { text: 'Stellar', link: '/website-packages/stellar.md' },
           // { text: 'Voyage', link: '/website-packages/voyage.md' },
@@ -55,21 +56,13 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Maintenance',
+        text: 'Upstream Providers',
         collapsed: true,
         items: [
-          { text: 'Care Plan', link: '/maintenance/care-plan' },
-          { text: 'Schedules', link: '/maintenance/schedules' },
-          { text: 'Data Protection', link: '/maintenance/data-protection' },
-          { text: 'Back Ups', link: '/maintenance/back-ups' },
-          // { text: 'Support', link: '/maintenance/support' },
-        ],
-      },
-      {
-        text: 'Servers',
-        collapsed: true,
-        items: [
-          { text: 'Providers', link: '/servers/server-providers' },
+          { text: 'Server Providers', link: '/upstream-providers/server-providers' },
+          { text: 'Domain Providers', link: '/upstream-providers/domain-providers' },
+          { text: 'Email Providers', link: '/upstream-providers/email-providers' },
+          { text: 'Storage Providers', link: '/upstream-providers/storage-providers' },
         ],
       },
       {
