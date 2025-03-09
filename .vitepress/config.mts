@@ -32,7 +32,9 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Overview', link: '/introduction/overview' },
+          { text: 'Company', link: '/introduction/company' },
           { text: 'Glossaries', link: '/introduction/glossaries' },
+          
         ]        
       },
 
@@ -91,8 +93,7 @@ export default defineConfig({
           { text: 'Computer Hardwares', link: '/other-services/marketing' },
         ],
       },
-      
-      
+    
 
     ],
 
