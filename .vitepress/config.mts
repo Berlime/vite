@@ -74,6 +74,7 @@ export default defineConfig({
           { text: 'SKU Count', link: '/add-ons/sku-count' },
           { text: 'Softwares', link: '/add-ons/softwares' },
           { text: 'Marketing', link: '/add-ons/marketing' },
+          { text: 'Support', link: '/add-ons/support'}
         ],
       },
       {
