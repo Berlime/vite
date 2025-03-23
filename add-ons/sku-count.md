@@ -34,7 +34,7 @@ Here are what we consider an SKU.
 | 400                 | S$450/m         | 
 | ... and so on       | + S$150 per 100 SKUs        |
 
-<ul style="color: rgba(255, 255, 255, 0.6); font-size: 14px; line-height: 1rem; list-style-type: none">
+<ul style="color: rgba(255, 255, 255, 0.6); font-size: 14px; line-height: 1rem; list-style-type: none; padding-left: 6px">
     <li><i>*If you want to add e-commerce funtionality but do not took up e-commerce website package. Your first 100 SKUs is S$150/m. Note that this is just a basic built-in e-commerce features without any extra features.</i></li>
 
 </ul>

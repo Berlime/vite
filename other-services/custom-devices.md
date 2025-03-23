@@ -48,7 +48,7 @@ Our hardware development charges are structured into three simple tiers:
 | Medium          | 20,001 - 50,000   | 20%            |
 | Large           | Above 50,000      | 10%            |
 
-<ul style="color: inherit; font-size: 14px; line-height: 1rem; list-style-type: none">
+<ul style="color: inherit; font-size: 14px; line-height: 1rem; list-style-type: none; padding-left: 6px">
   <li><i>Minimum fee of S$150 applies for projects under S$500</i></li>
   <li><i>Custom quotes available for projects above S$100,000</i></li>
 </ul>
@@ -65,7 +65,7 @@ Our software development packages include custom programming, configuration, tes
 | Advanced    | 3,001 - 7,000     | 30%             | 20%               | 10,500            |
 | Complex      | Above 7,000       | 30%             | 20%               | Custom Quote      |
 
-<ul style="color: inherit; font-size: 14px; line-height: 1rem; list-style-type: none">
+<ul style="color: inherit; font-size: 14px; line-height: 1rem; list-style-type: none; padding-left: 6px">
   <li><i>Development fee covers programming, configuration, and testing</i></li>
   <li><i>Maintenance includes regular updates and priority support</i></li>
   <li><i>Site visits are included in maintenance for all packages</i></li>

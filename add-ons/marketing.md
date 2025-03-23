@@ -66,7 +66,7 @@ Below is <u>some</u> of the key features from `Wati` & `Berlime's` services to s
 | **Monthly³**          | {{ $frontmatter.priceW1 }} + Rate Card          | {{ $frontmatter.priceW2 }} + Rate Card          | {{ $frontmatter.priceW3 }} + Rate Card          |
 
 
-<ul style="color: rgba(255, 255, 255, 0.6); font-size: 14px; line-height: 1rem; list-style-type: none">
+<ul style="color: rgba(255, 255, 255, 0.6); font-size: 14px; line-height: 1rem; list-style-type: none; padding-left: 6px">
   <li><i>*Some of the key services rendered by Berlime Solutions and not Wati.</i></li>
   <li><i>¹Create/Configure Meta accounts.</i></li>
   <li><i>³View Wati's conversational Rate Card <a href="https://support.wati.io/articles/sVz5c2f20P" target="_blank">here</a>.</i></li>
@@ -117,7 +117,7 @@ Below is <u>some</u> of the key features from `Wati` & `Berlime's` services to s
 | **Monthly³**          | {{ $frontmatter.priceW1 }} + Rate Card          | {{ $frontmatter.priceW2 }} + Rate Card          | {{ $frontmatter.priceW3 }} + Rate Card          |
 
 
-<ul style="color: rgba(255, 255, 255, 0.6); font-size: 14px; line-height: 1rem; list-style-type: none">
+<ul style="color: rgba(255, 255, 255, 0.6); font-size: 14px; line-height: 1rem; list-style-type: none; padding-left: 6px">
   <li><i>*Some of the key services rendered by Berlime Solutions and not Wati.</i></li>
   <li><i>¹Create/Configure Meta accounts.</i></li>
   <li><i>³View Wati's conversational Rate Card <a href="https://support.wati.io/articles/sVz5c2f20P" target="_blank">here</a>.</i></li>
