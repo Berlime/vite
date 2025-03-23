@@ -3,7 +3,7 @@ title: Software Procurement
 outline: docs
 ---
 
-# Software Procurement
+## Software Procurement
 
 We provide comprehensive software procurement services to help businesses acquire, implement, and manage enterprise-grade software solutions. Our expertise ensures you get the right software at competitive prices with proper licensing and support.
 
@@ -71,12 +71,12 @@ Value-Added Implementation Services
 
 We offer comprehensive implementation and onboarding services to ensure smooth deployment and adoption of your software solutions. Our service packages include:
 
-| Implementation Scope | Price Range (S$) | Services Included |
-|---------------------|------------------|-------------------|
-| Basic               | 1,000 - 5,000    | - Basic software installation<br>- Initial configuration<br>- Basic user training |
-| Standard            | 5,001 - 15,000   | - Full software deployment<br>- Custom configurations<br>- Data migration<br>- Comprehensive training |
-| Complex             | 15,001 - 30,000  | - Advanced integrations<br>- Workflow customization<br>- Extended training programs<br>- Post-implementation support |
-| Enterprise          | 30,001+          |
+| Implementation Scope | Price Range (S$) | Services Included                                                                                                |
+|---------------------|------------------|----------------------------------------------------------------------------------------------------------------|
+| Basic               | 1,000 - 5,000    | Basic software installation, Initial configuration, Basic user training                                           |
+| Standard            | 5,001 - 15,000   | Full software deployment, Custom configurations, Data migration, Comprehensive training                           |
+| Complex             | 15,001 - 30,000  | Advanced integrations, Workflow customization, Extended training programs, Post-implementation support            |
+| Enterprise          | 30,001+          |                                                                                                                  |
 
 ### Volume Discount
 
