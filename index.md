@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Find Your Packages
-      link: /website-packages/packages
+      link: /website-packages/packages.html
     - theme: alt
       text: Find Your Care Plan
-      link: /api-examples
+      link: /website-packages/maintenance.html
 
 features:
   - icon: ⬇️
@@ -22,21 +22,28 @@ features:
   - icon: 💧
     title: Get Clarity
     details: Understand project execution processes, ensuring efficiency from the ground up.
+    link: /introduction/wdaas.html
   - icon: ⚙️
     title: Up Stream Provider
     details: Discover the tools & technologies powering your website & application.
+    link: /upstream-providers/upstream-providers.html
   - icon: 💡
     title: Easy to Understand
     details: No jargon. Clear, straightforward information to help you grasp every detail effortlessly.
+    link: /introduction/glossaries.html
   - icon: ➕
     title: Add-Ons
     details: Discover our structured add-ons to enhance & customize your unique processes.
+    link: /add-ons/explore-add-ons.html
   - icon: 📊
     title: Client Portal
     details: Understand the information & resources available in our client portal for easy access.
+    link: /website-packages/maintenance.html#client-portal-access
   - icon: 🛡️
     title: Data-Protection
-    details: Learn about our measures to safeguard sensitive data & ensure confidentiality. 
+    details: Learn about our measures to safeguard sensitive data & ensure confidentiality.
+    link: /website-packages/maintenance.html#disaster-recovery
   - icon: 💻
     title: Other Services
     details: Discover services outside of front-end development.
+    link: /other-services/overview.html

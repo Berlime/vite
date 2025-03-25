@@ -7,10 +7,13 @@ outline: docs
 
 Explore our list of common tech abbreviations and their meanings. This quick reference guide will help you understand the technical jargon with ease.
 
-Note that some may only applicable to only our context.
-Click 'On This Page' to navigate.
+Note that some terms may require basic familiarity with digital technology concepts to fully grasp their meaning.
+We will do our best to keep this list up-to-date and as simple as possible.
 
-Click [here](/website-packages/types-of-websites.html) to skip to the next page.
+Some term may only applicable to only our context.
+Use the `On This Page` section to navigate.
+
+Or Click [here](/website-packages/types-of-websites.html) to skip to the next page.
 
 ## A
 

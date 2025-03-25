@@ -34,6 +34,7 @@ export default defineConfig({
           { text: 'Overview', link: '/introduction/overview' },
           { text: 'Company', link: '/introduction/company' },
           { text: 'Glossaries', link: '/introduction/glossaries' },
+          { text: 'Hire Us!', link: '/introduction/wdaas.md' },
           
         ]        
       },
@@ -47,7 +48,6 @@ export default defineConfig({
           { text: 'Pro Websites', link: '/website-packages/pro-websites' },
           { text: 'HFD Websites', link: '/website-packages/hfd-websites' },
           { text: 'Onine Shop Websites', link: '/website-packages/online-shop-websites' },
-          { text: 'Hire Us!', link: '/website-packages/wdaas.md' },
           { text: 'Maintenance', link: '/website-packages/maintenance.md' },
           // { text: 'Cosmic', link: '/website-packages/cosmic.md' },
           // { text: 'Stellar', link: '/website-packages/stellar.md' },
@@ -58,9 +58,10 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Upstream Providers',
+        text: 'Service Providers',
         collapsed: true,
         items: [
+          { text: 'Upstream Providers', link: '/upstream-providers/upstream-providers' },
           { text: 'Server Providers', link: '/upstream-providers/server-providers' },
           { text: 'Domain Providers', link: '/upstream-providers/domain-providers' },
           { text: 'Email Providers', link: '/upstream-providers/email-providers' },
@@ -68,9 +69,10 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Add Ons',
+        text: 'Add-Ons',
         collapsed: true,
         items: [
+          { text: 'Explore Add-Ons', link: '/add-ons/explore-add-ons.md' },
           { text: 'SKU Count', link: '/add-ons/sku-count' },
           { text: 'Softwares', link: '/add-ons/softwares' },
           { text: 'Marketing', link: '/add-ons/marketing' },
@@ -81,6 +83,7 @@ export default defineConfig({
         text: 'Other Services',
         collapsed: true,
         items: [
+          { text: 'Explore Other Services', link: '/other-services/overview.md' },
           // { text: 'Intranets', link: '/other-services/sku-count' },
           // { text: 'Automations', link: '/other-services/softwares' },
           // { text: 'Interactive', link: '/other-services/marketing' },
