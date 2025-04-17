@@ -84,7 +84,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Explore Other Services', link: '/other-services/overview.md' },
-          // { text: 'Intranets', link: '/other-services/sku-count' },
+          { text: 'Intranets', link: '/other-services/intranets' },
           // { text: 'Automations', link: '/other-services/softwares' },
           // { text: 'Interactive', link: '/other-services/marketing' },
           // { text: 'E-mail Marketing', link: '/other-services/marketing' },
