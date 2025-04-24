@@ -360,6 +360,32 @@ WordPress is the world's most popular content management system (CMS), powering 
 
 WordPress comes in two versions: WordPress.org (self-hosted, requiring your own hosting service) and WordPress.com (hosted solution with varying subscription levels).
 
+### Wireframe
+
+A wireframe is a simplified visual blueprint of a website's layout and structure, similar to an architect's sketch of a building. It shows:
+
+- The placement of elements (navigation, content areas, images)
+- Basic layout and hierarchy of information
+- User interface components and their relationships
+- Content organization and prioritization
+
+Wireframes intentionally lack color, typography, and detailed design elements to focus on functionality and user flow rather than aesthetics. They serve as a communication tool between clients and developers, allowing for early feedback before investing in detailed design work.
+
+Wireframes typically come in different levels of detail:
+
+- **Low-fidelity**: Simple sketches showing basic overview of the layout and structure. (Drawings/diagrams)
+- **Mid-fidelity**: More detailed representations with placeholder content
+- **High-fidelity**: Detailed mockups that closely resemble the final product
+
+In Berlime's context, below is the level of details we offer:
+
+- **Level 1**: Sitemap Only
+- **Level 2**: Includes Level 1 and Low-fidelity wireframe
+- **Level 3**: Desktop/laptop size of Level 2
+- **Level 4**: Includes Level 3 with high-fidelity wireframe.
+- **Level 5**: Prototype. (Mimicks full-live demo)
+
+
 ## Z
 
 ### Zero-Knowledge Privacy
