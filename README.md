@@ -1,74 +1,23 @@
-An example of a documentation site.
+# Starbase Wiki Hub
 
-Doubles as an in-depth terms and conditions to provide transparency and assure quality.
+The comprehensive documentation and knowledge base for Berlime's services and packages. This wiki provides in-depth information about the company's offerings, technologies, and support resources.
 
-# Project Name
+## Credits
 
-> A brief description of your project and what it does.
+### Development & Maintenance
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- **Berlime Solutions Pte. Ltd.** - Primary development and content management
+- [Visit Berlime](https://berlime.com/)
 
-## 🚀 Features
+### Technologies
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Built with [VitePress](https://vitepress.dev/)
+- Powered by [Vue.js](https://vuejs.org/)
 
-## 📋 Prerequisites
+### Acknowledgements
 
-Before you begin, ensure you have met the following requirements:
-- Node.js (v18 or higher)
-- npm or yarn
+Special thanks to Evan You and the Vue.js team for creating and maintaining the tools that make this documentation site possible.
 
-## 🔧 Installation
+---
 
-```bash
-# Clone the repository
-git clone https://github.com/username/project-name.git
-
-# Navigate to the project directory
-cd project-name
-
-# Install dependencies
-npm install
-```
-
-## 💻 Usage
-
-```bash
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
-## 📖 Documentation
-
-For detailed documentation, please visit [docs/](docs/).
-
-## 🤝 Contributing
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - [@yourusername](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- List any resources, contributors, or inspiration here
-
-## 📞 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/username/project-name](https://github.com/username/project-name)
+© Berlime Solutions Pte. Ltd. All Rights Reserved.

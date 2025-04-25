@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Find Your Packages
-      link: /website-packages/packages.html
+      link: /website-packages/types-of-websites.html
     - theme: alt
-      text: Find Your Care Plan
-      link: /website-packages/maintenance.html
+      text: The Genesis
+      link: /introduction/company.html
 
 features:
   - icon: ⬇️
