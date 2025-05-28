@@ -1,16 +1,56 @@
 ---
-title: Microsoft 365
-outline: docs
+outline: 2
 ---
 
-
-# Microsoft 365 Solutions
+# Microsoft 365
 
 Microsoft 365 provides a comprehensive suite of productivity and collaboration tools that empower your organization. We offer expert implementation, customization, and support for the full Microsoft 365 ecosystem.
 
 Our Microsoft 365 services help you maximize your investment in Microsoft's cloud platform, enabling secure access to company resources, streamlined communication, and enhanced productivity.
 
+## MS365 Apps Discounts
+
+We are an officially certified Microsoft Partner, verified through Microsoft's marketplace platform. You can view our partnership credentials at: <https://appsource.microsoft.com/en-us/marketplace/partner-dir/1786e9b6-341a-459c-a3bd-196e5bf3a592/overview>
+
+### Why Choose Us for Your Microsoft Licenses
+
+#### Easy Payment Solutions
+
+- Perfect for businesses that don't issue credit cards or prefer not to use them for direct Microsoft purchases
+- We handle the purchasing process so you don't need to deal with Microsoft's credit card requirements
+
+## Authorized Reseller
+
+We work directly with Microsoft Singapore's Authorized OEM distributor. Our distributor credentials can be verified at: https://partner.microsoft.com/en-sg/Licensing/isvr%20licensing%20program%20distributors
+
+This partnership allows us to resell genuine Microsoft licenses to our clients and end users at competitive rates while maintaining full compliance with Microsoft's licensing requirements.
+
+## Tier-Based Pricing Structure
+
+Our pricing follows a simple volume-based discount system:
+
+| License Range | Discount Applied | Notes                                      |
+|:-------------:|:----------------:|:-------------------------------------------|
+| 1 to 10       | None             | Full price as listed in the Microsoft 365 website |
+| 11 to 20      | 3%               | Applied to total order                     |
+| 21 to 50      | 4%               | Applied to total order                     |
+| 51+           | 5%               | Applied to total order                     |
+
+*All discounts are calculated on the total license quantity in your order*
+
+## Get Microsoft Apps Now!
+
+Contact us today for your Microsoft licensing needs:
+
+**Email:** kevin@berlime.com
+
+**Contact Form:** https://berlime.com/contact
+
+We'll provide you with a customized quote based on your requirements and license quantity.
+
 ## Microsoft 365 Services
+
+Berlime Solutions Pte. Ltd. not only resells Microsoft licenses but also provides customized solutions, tailoring the Microsoft 365 suite to your specific business needs.
 
 We deliver tailored Microsoft 365 solutions that align with your business needs. Our expertise spans the entire Microsoft 365 suite, with specialized focus on:
 
@@ -92,10 +132,12 @@ Popular iPaaS platforms we support:
 
 ::: warning Integration Selection
 Choose your integration method based on:
+
 - Application compatibility
 - Workflow complexity
 - Technical expertise
 - Security requirements
+
 :::
 
 ### Tier Availability
@@ -110,11 +152,11 @@ Choose your integration method based on:
 
 *   **Core Features**: Includes essential collaboration tools, document sharing, and basic [project management](../introduction/glossaries.md#project-management) capabilities.
 *   **Advanced Tools**: Adds features like workflow automation, advanced analytics, and integration options.
-*   **Premium Support**: Offers dedicated account management and priority support channels. See our [Support Policy](../introduction/glossaries.md#support-policy) for details *(Note: Link assumes 'Support Policy' term exists in glossaries)*.
+*   **Premium Support**: Offers dedicated account management and priority support channels. See our [Premium Support](../introduction/glossaries.md#premium-support) definition for details.
 *   **Security Pack**: Defines the level of security protocols, compliance certifications, and data backup frequency.
 
 ::: warning Important Note
 Project limits are calculated based on active projects within a billing cycle. Archived projects do not count towards your limit.
 :::
 
-Need a custom solution? [Contact Sales](mailto:sales@example.com) for bespoke Enterprise options.
+Need a custom solution? [Contact Sales](mailto:kevin@berlime.com) for bespoke Enterprise options.
