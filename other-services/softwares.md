@@ -1,10 +1,8 @@
 ---
-title: Software Procurement
 outline: docs
 ---
 
-# {{ $frontmatter.title }}
-
+# Software Procurement
 We provide comprehensive software procurement services to help businesses acquire, implement, and manage enterprise-grade software solutions. Our expertise ensures you get the right software at competitive prices with proper licensing and support.
 
 ### Adobe

@@ -1,9 +1,8 @@
 ---
-title: Glossaries
 outline: docs
 ---
 
-<p style="font-size: 24px; font-weight: 600">Glossaries</p>
+# Glossaries
 
 Explore our list of common tech abbreviations and their meanings. This quick reference guide will help you understand the technical jargon with ease.
 
@@ -129,6 +128,10 @@ Egress fees are charges applied by cloud service providers for data transferred 
 
 A full backup is a complete copy of all selected data at a specific point in time. Unlike incremental or differential backups that only capture changes, full backups contain everything needed for a complete restoration without requiring additional backup files. While full backups require more storage space and time to complete, they provide the fastest and most straightforward restoration process when needed.
 
+### Fully Hosted
+
+A fully hosted service means the provider manages all aspects of the service infrastructure, including servers, software, maintenance, and security. The client accesses the service typically via the internet without needing to manage any underlying hardware or software. This model offers convenience and lower upfront costs, as the provider handles all technical complexities.
+
 ## G
 
 ### GUI
@@ -160,6 +163,10 @@ Hotlink access refers to the capability of directly accessing files or resources
 
 Hotlink is the same as above - a direct link from one application to another application that provides easy and fast access to resources without needing to download and reupload them.
 
+### Hybrid Hosting
+
+Hybrid hosting combines elements of self-hosting and provider-managed hosting. In this model, some components of a service (like the core application or data) might be hosted on the client's own infrastructure (on-premises or private cloud) for greater control or security, while other parts (like updates, specialized AI models, or a management interface) are managed by the service provider. This offers a balance between control, security, and convenience.
+
 ## I
 
 ### Incremental Backup
@@ -168,7 +175,7 @@ An incremental backup captures only the data that has changed since the most rec
 
 ### Industrial-Grade Components
 
-Industrial-grade components are hardware parts specifically designed for commercial or industrial use rather than consumer applications. These components are built to higher reliability standards with features such as:
+Industrial-Grade components are hardware parts specifically designed for commercial or industrial use rather than consumer applications. These components are built to higher reliability standards with features such as:
 
 - **Extended operating temperature ranges**: Functioning reliably in extreme environments
 - **Enhanced durability**: Resistant to vibration, dust, moisture, and other harsh conditions

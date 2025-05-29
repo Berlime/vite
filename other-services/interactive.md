@@ -1,5 +1,4 @@
 ---
-title: "Immersive Web: Motion, Animation & VR Experiences"
 outline: docs
 ---
 

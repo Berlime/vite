@@ -1,5 +1,4 @@
 ---
-title: Custom Devices
 outline: docs
 ---
 
