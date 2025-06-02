@@ -299,6 +299,16 @@ It's an extension of the SSH (Secure Shell) protocol and provides a secure metho
 
 Shared hosting is a web hosting service where multiple websites reside on a single web server. With this type of hosting, server resources (such as RAM, CPU, disk space, and bandwidth) are shared among all the websites on that server. Shared hosting is cost-effective and beginner-friendly, as the hosting provider handles all server maintenance, security updates, and technical configurations. However, because resources are shared, performance can be affected by other websites on the same server, making it best suited for small to medium-sized websites with moderate traffic levels.
 
+### Sitemap
+
+A sitemap is a model of a website's content. It can take different forms depending on its purpose:
+
+*   **Visual Sitemap (for Wireframing & Planning):** A visual diagram showing website structure and page relationships. Used during planning to organize content and guide navigation before creating [wireframes](#wireframe). Different from search engine sitemaps.
+
+*   **Technical Sitemaps (for Search Engines & Users):**
+    *   **HTML Sitemap**: A human-readable, hierarchical list of pages on a website, designed to assist users in finding content.
+    *   **XML Sitemap**: A specially formatted file created for search engines, listing all important URLs on a site to help them crawl and index content more efficiently.
+
 ### Site Visit
 
 A site visit is an in-person service where technical professionals travel to a client's location to provide on-site support, conduct assessments, or implement solutions. Site visits may be necessary for hardware installations, network configurations, physical security assessments, or situations requiring direct interaction with systems that cannot be managed remotely. Site visit charges typically include travel time, on-site hours, and any materials or equipment needed for the service.
@@ -396,18 +406,26 @@ Wireframes intentionally lack color, typography, and detailed design elements to
 
 Wireframes typically come in different levels of detail:
 
-- **Low-fidelity**: Simple sketches showing basic overview of the layout and structure. (Drawings/diagrams)
-- **Mid-fidelity**: More detailed representations with placeholder content
-- **High-fidelity**: Detailed mockups that closely resemble the final product
+- **Low-fidelity**: Simple sketches showing basic overview of the layout and structure. (Drawings/diagrams) - Level 1 to 4
+- **Mid-fidelity**: More detailed representations with placeholder content - Level 5 to 8
+- **High-fidelity**: Detailed mockups that closely resemble the final product - Level 9 to 11
 
-In Berlime's context, below is the level of details we offer:
 
-- **Level 1**: Sitemap Only
-- **Level 2**: Includes Level 1 and Low-fidelity wireframe
-- **Level 3**: Desktop/laptop size of Level 2
-- **Level 4**: Includes Level 3 with high-fidelity wireframe.
-- **Level 5**: Prototype. (Mimicks full-live demo)
+Berlime offers 10 progressive levels of wireframe detail, from basic sitemap visualization to fully interactive prototypes:
 
+| Level | Description                                    | Format                                |
+|:------|:-----------------------------------------------|:--------------------------------------|
+| 1     | [Sitemap](#sitemap) Only                       | Basic Diagram                         |
+| 2     | Level 1 + Basic Layout                         | Basic Diagram                         |
+| 3     | Level 2 + Contextual Copywriting               | Notes                                 |
+| 4     | Level 3 + Strategized Copywriting              | Refined Text + Layout                 |
+| 5     | Level 4 + Basic SEO implementation             | SEO + Content                         |
+| 6     | Level 5 + Desktop size wireframing             | Desktop Layout                        |
+| 7     | Level 6 + Userflow                             | Notes (Arrows)                        |
+| 8     | Level 7 + Branding                             | Input colors, fonts, etc.             |
+| 9     | Level 8 + Contextual Animations                | Notes (Animations)                    |
+| 10    | Level 9 + Prototype                            | Notes (No Animation Displayed)        |
+| 11    | Level 10 + Interactive prototype               | Full Live Demo                        |
 
 ## Z
 
