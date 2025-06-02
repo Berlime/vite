@@ -4,7 +4,7 @@ layout: doc
 outline: [2, 3]
 ---
 
-# Discover Our Add-Ons
+# Explore Add-Ons
 
 Add-ons are specialized services and features designed to complement and extend our core website packages. They provide additional functionality, support, and marketing capabilities that can be tailored to your specific business needs.
 

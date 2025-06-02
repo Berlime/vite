@@ -1,13 +1,14 @@
 ---
-title: SKU Count - For Online Store
+tajuk: SKU Count - For Online Store
 outline: docs
 ---
 
-# {{ $frontmatter.title }}
+# SKU Count - For Online Store
 
 Let's determine the extra commitment required if your store have a lot of products. Before we get into it, e-commerce have an extra maintenance tasks to peform on top of the main website's maintenance. Its a seperate system that sits on top of the main website.
 
 ::: tip Factors that we consider:
+
 - Server Resources: Each product takes up space and bandwidth into the server.
 - Google Indexing: We need to index each product on Google to ensure its discoverable by potential customers.
 - Maintenance Tasks: Continuous efforts are required to maintain site speed, performance and fulfilling change requests. Mostly involves eCommerce related updates & optimizations. (Different from Core Maintenance)
@@ -26,17 +27,16 @@ Here are what we consider an SKU.
 - Custom field with pricing. Determined by `product fields add-on` plug-in.
 - Custom condition. Each condition created is counted as one SKU.
 
-| SKU(s) Count        |Extra Costs      |
-| ------------------- | :-------------: | 
-| 100*                 | S$0/m           |                                
-| 200                 | S$150/m         | 
-| 300                 | S$300/m         | 
-| 400                 | S$450/m         | 
-| ... and so on       | + S$150 per 100 SKUs        |
+| SKU(s) Count | Extra Costs |
+|-------------|:-----------:|
+| 100*        | S$0/m       |
+| 200         | S$150/m     |
+| 300         | S$300/m     |
+| 400         | S$450/m     |
+| ... and so on | + S$150 per 100 SKUs |
 
-<ul style="color: rgba(255, 255, 255, 0.6); font-size: 14px; line-height: 1rem; list-style-type: none; padding-left: 6px">
+<ul style="color: inherit; font-size: 14px; line-height: 1rem; list-style-type: none; padding-left: 6px">
     <li><i>*If you want to add e-commerce funtionality but do not took up e-commerce website package. Your first 100 SKUs is S$150/m. Note that this is just a basic built-in e-commerce features without any extra features.</i></li>
-
 </ul>
 
 ::: info Example
@@ -58,17 +58,14 @@ Previously, we have discussed if an online store have multiple products:
 
 In this metrics, on top of the extra SKU count cost incured (if applicable), here are the extra cost to consider based on per order.
 
-| Order Count              |Extra Costs      |
-| -------------------      | :-------------: | 
-| 100/week                 | S$50/m          |                                
-| 200/week                 | S$100/m         | 
-| 300/week                 | S$150/m         | 
-| 400/week                 | S$200/m         | 
-| ... and so on            | + S$50 per 100 orders per week        | 
-
+| Order Count                    | Extra Costs                   |
+| ----------------------------- | :----------------------------: |
+| 100/week                      | S$50/m                         |
+| 200/week                      | S$100/m                        |
+| 300/week                      | S$150/m                        |
+| 400/week                      | S$200/m                        |
+| ... and so on                 | + S$50 per 100 orders per week |
 
 ::: info Note:
-
 If a person purchase 100 products in one checkout. It is still counted as one order.
-
 :::

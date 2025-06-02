@@ -3,10 +3,10 @@ title: Overview
 outline: docs
 ---
 
-<p style="font-size: 24px; font-weight: 600">Overview</p>
+# Overview
 
 Welcome to Berlime Solutions! This knowledge base explains our web services and other services much deeper but in simple terms.
-This documentation provides all the technical details of how we fulfill your maintenance plan & packages. In today’s digital world, transparency is crucial, and we're committed to keeping you in the loop.
+This documentation provides all the technical details of how we fulfill your maintenance plan & packages. In today's digital world, transparency is crucial, and we're committed to keeping you in the loop.
 
 We lay everything out, from the technologies we use to the processes behind the scenes. This way, you can fully understand how your web/app functions, how we stay within budget, and how we address the unique needs and challenges of your customers.
 

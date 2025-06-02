@@ -3,9 +3,9 @@ title: Sofwares
 outline: docs
 ---
 
-<p style="font-size: 24px; font-weight: 600">Softwares</p>
+# Sofwares
 
-Softwares are sometimes referred as [plug-ins](/introduction/glossaries.html#plug-in). A plug-in extends a functionality of an existing software.
+Software programs are sometimes referred as [plug-ins](/introduction/glossaries.html#plug-in). A plug-in extends a functionality of an existing software.
 
 The term 'Plug-In' is widely use on WordPress, though WordPress is a powerful [Content Management System](/introduction/glossaries.html#cms).
 
@@ -42,7 +42,7 @@ For plug-ins that require maintenance, which most plug-ins is required if not al
 
 Plug-ins/softwares may have a cheaper option if bought in bulk that includes licenses for multiple websites especially for WordPress sites.
 
-We will always count the ‘Single License’ instead of the bulk price. If we happened to have the unlimited lifetime license. We may not even charge extra for this. Usually we charge when there is some sort of ongoing maintenance is required for the website to run/function that is the main functionality for the website. There are 2 parts of cost involved, see below.
+We will always count the 'Single License' instead of the bulk price. If we happened to have the unlimited lifetime license. We may not even charge extra for this. Usually we charge when there is some sort of ongoing maintenance is required for the website to run/function that is the main functionality for the website. There are 2 parts of cost involved, see below.
 
 ### 1. Service cost threshold
 

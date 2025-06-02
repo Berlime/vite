@@ -3,7 +3,7 @@ title: Support
 outline: docs
 ---
 
-# Support Add-ons
+# Support
 
 We offer several support and maintenance add-ons to better support your website and ensure its optimal performance. Here are some of the add-ons we offer:
 

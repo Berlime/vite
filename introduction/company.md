@@ -1,9 +1,8 @@
 ---
-title: Company
 outline: docs
 ---
 
-# The Genesis
+# Company
 
 Berlime Solutions was founded in 2019 with a vision to transform how businesses approach their digital presence. Born from the frustration of seeing countless organizations struggle with poorly built websites that failed to deliver on their promises, our founders set out to create an agency that would prioritize craftsmanship over convenience.
 
@@ -73,7 +72,7 @@ Berlime Solutions has established strategic partnerships with industry leaders t
 
 ### Bricks
 
-Our recognition as an official [Bricks Builder Expert](https://bricksbuilder.io/expert/berlime/) validates our mastery of this revolutionary WordPress page builder, enabling us to create exceptionally performant, flexible websites that stand apart from typical template-based solutions. 
+Our recognition as an official [Bricks Builder Expert](https://bricksbuilder.io/expert/berlime/) validates our mastery of this revolutionary WordPress page builder, enabling us to create exceptionally performant, flexible websites that stand apart from typical template-based solutions.
 
 ```
 This certification demonstrates our commitment to leveraging cutting-edge technology 
@@ -103,4 +102,4 @@ We are currently in the application process to become an official partner with W
 
 As a Wati.io partner, we'll be positioned to implement sophisticated WhatsApp automation workflows, chatbots, and CRM integrations that help businesses connect with customers on their preferred messaging platform. This capability will be particularly valuable for our clients in Singapore and throughout Southeast Asia, where WhatsApp is a dominant communication channel.
 
-Once our partnership is finalized, we'll gain access to specialized training and support resources that will enhance our ability to deliver comprehensive WhatsApp Business solutions. This partnership aligns perfectly with our commitment to providing integrated digital experiences that meet real business needs across multiple touchpoints.
+Once our partnership is finalized, we'll gain access to specialized training and support resources that will enhance our ability to deliver comprehensive WhatsApp Business solutions. This partnership aligns perfectly with our commitment to providing integrated digital experiences that meet real business needs across multiple touchpoints. 

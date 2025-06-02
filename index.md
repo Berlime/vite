@@ -15,6 +15,7 @@ hero:
       link: /introduction/company.html
 
 features:
+
   - icon: ⬇️
     title: In-depth
     details: Learn about our products & services tailored to meet your unique business needs.
