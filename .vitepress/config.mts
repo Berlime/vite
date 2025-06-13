@@ -80,10 +80,18 @@ export default defineConfig({
         ],
       },
       {
+        text: 'Software Licenses',
+        collapsed: true,
+        items: [
+          { text: 'Microsoft 365', link: '/software-licenses/microsoft-365' },
+          { text: 'Adobe', link: '/software-licenses/adobe' },
+        ],
+      },
+      {
         text: 'Other Services',
         collapsed: true,
         items: [
-          { text: 'Microsoft 365', link: '/other-services/microsoft-365' },
+          { text: 'SharePoint', link: '/other-services/sharepoint' },
           // { text: 'Automations', link: '/other-services/softwares' },
           { text: 'Interactive', link: '/other-services/interactive' },
           { text: 'Business AI', link: '/other-services/business-ai' },
